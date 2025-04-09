@@ -1,0 +1,99 @@
+.imagem{
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.sinopse{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+    background-color: rgb(255, 241, 225);
+    color: black;
+    border: 3px solid rgb(255, 233, 174);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.imagem2{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.h2{
+    margin-top: 120px;
+}
+
+.tt{
+    width: 20%;
+    padding: 15px;
+    border-radius: 15%;
+}
+
+.flex1{
+    display: flex;
+    color: black;
+    background-color: aqua;
+}
+
+.flex2{
+    display: flex;
+    color: white;
+    background-color: red;
+}
+
+.flex3{
+    display: flex;
+    color: black;
+    background-color: yellow;
+}
+
+.flex4{
+    display: flex;
+    color: black;
+    background-color: greenyellow;
+}
+
+.flex5{
+    display: flex;
+    color: white;
+    background-color: blue;
+}
+
+.flex6{
+    display: flex;
+    color: white;
+    background-color: blueviolet;
+}
+
+.flex7{
+    display: flex;
+    color: black;
+    background-color: rgb(255, 114, 114);
+}
+
+h2{
+    padding-top: 100px;
+}
+
+.flex8{
+    display: flex;
+    padding: 20px;
+    background-color: rgb(212, 212, 212);
+}
+
+.texto{
+    padding-right: 300px;
+    padding-left: 15px;
+    justify-content: center;
+}
+
+.aa{
+    border-radius: 15%;
+    margin-top: 30px;
+    border-right: 80px;
+}
