@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Codystar:wght@300;400&family=Emblema+One&family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&family=Wallpoet&display=swap');
+
+body{
+   background-image: url(/img/quadra.avif);
+}
+
+.imagem{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 241, 225);
+    font-family: oswald;
+}
+
+.sinopse{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+    background-color: rgb(255, 241, 225);
+    color: black;
+    border: 3px solid rgb(255, 233, 174);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.imagem2{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.resumo{
+    background-color: rgb(255, 241, 225);
+    border: 3px solid rgb(255, 233, 174);
+    text-align: justify;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+h2{
+    margin-top: 100px;
+    font-family: oswald;
+}
+
+.tt{
+    width: 20%;
+    padding: 15px;
+    border-radius: 15%;
+}
+
+.flex1{
+    display: flex;
+    color: aqua;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex2{
+    display: flex;
+    color: red;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex3{
+    display: flex;
+    color: yellow;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex4{
+    display: flex;
+    color: greenyellow;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex5{
+    display: flex;
+    color: blue;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex6{
+    display: flex;
+    color: blueviolet;
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex7{
+    display: flex;
+    color: rgb(255, 114, 114);
+    background-color: black;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.flex8{
+    display: flex;
+    padding: 20px;
+    background-color: rgb(212, 212, 212);
+    text-align: justify;
+    margin-bottom: 80px;
+}
+
+.texto{
+    padding-right: 300px;
+    padding-left: 15px;
+    justify-content: center;
+}
+
+.aa{
+    border-radius: 15%;
+    margin-top: 30px;
+    border-right: 300px;
+}
+
+#meuvideo{
+    min-width: 50%;
+    border: 10px solid black;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
